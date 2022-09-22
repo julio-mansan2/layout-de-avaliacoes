@@ -18,7 +18,7 @@ img {
     height: 100%;
     display: grid;
     align-content: center;
-    margin: 150px;
+    margin: 130px;
     grid-template-areas:
     "daniel daniel jonathan kira"
     "jeanette patrick patrick kira";
