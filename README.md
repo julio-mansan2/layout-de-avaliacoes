@@ -90,13 +90,13 @@ Versão Mobile
 <br>
 
 
-- Configurar o background-size com porcentagem
+- Configurar o background-position com porcentagem
 
 ````css
 
 .container {
 
-    background-size: 80% (X) 0% (Y)
+    background-position: 80% (X) 0% (Y)
 
 }
 
