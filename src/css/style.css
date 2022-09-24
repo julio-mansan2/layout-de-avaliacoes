@@ -36,7 +36,7 @@ img {
 
 }
 
-.container div .info {
+.container article .info {
 
     display: flex;
     align-items: center;
@@ -64,7 +64,7 @@ img {
 
 }
 
-.container p {
+.container q {
 
     font-size: 13px;
     color: hsl(0, 0%, 70%);
